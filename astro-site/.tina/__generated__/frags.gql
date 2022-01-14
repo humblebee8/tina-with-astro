@@ -1,0 +1,9 @@
+fragment PostsParts on Posts {
+  setup
+  title
+  publishDate
+  name
+  value
+  description
+  body
+}
